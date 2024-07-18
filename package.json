@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ironious8/phase-1-project.git"
+  },
+  "author": "Tyrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ironious8/phase-1-project/issues"
+  },
+  "homepage": "https://github.com/Ironious8/phase-1-project#readme"
+}

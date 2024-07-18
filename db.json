@@ -1,0 +1,73 @@
+{
+    "products": [
+        {
+            "id":"1",
+            "image":"phone.png",
+            "name":"Iphone 15 pro max",
+            "price":120000,
+            "key":"Add To Card"
+        },
+        {
+            "id":"2",
+            "image":"laptop.webp",
+            "name":"Mac book 14 laptop",
+            "price": 40000,
+            "key":"Add To Card"
+
+        },
+        {
+            "id":"3",
+            "image":"TV.webp",
+            "name":"Hi sense 43 inch smart TV",
+            "price": 50000,
+            "key":"Add To Card"
+       
+        },
+        {
+            "id":"4",
+            "image":"fridge.webp",
+            "name":"2 door direct cool fridge",
+            "price": 55000,
+            "key":"Add To Card"
+        },
+        {
+            "id":"5",
+            "image":"smartwatch.jpeg",
+            "name":"Bluetooth smartwatch",
+            "price": 3000,
+            "key":"Add To Card"
+        },
+        {
+            "id": 6,
+            "image":"woofer.jpeg",
+            "name": "Aliyons woofer",
+            "price": 15000,
+            "key":"Add To Card"
+             
+
+        },
+        {
+            "id": 7,
+            "image":"headphones.jpeg",
+            "name":"Wireless headphones oraimo",
+            "price": 5000,
+            "key":"Add To Card"
+        },
+        {
+            "id": 8,
+            "image":"ps5.jpeg",
+            "name":"PS5",
+            "price": 80000,
+            "key":"Add To Card"
+        },
+        {
+            "id": 9,
+            "image":"cooker.jpeg",
+            "name":"4-gas, 1-electric cooker",
+            "price": 90000,
+            "key":"Add To Card"
+        }
+    
+    ]
+
+}
