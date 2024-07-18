@@ -49,3 +49,6 @@ After finishing these steps you should see your updates changes in your github p
 Before we forget,the work is to be submitted to canvas. Simply paste the URL of the work in the submission section of the code challenge and click on submit assignment.
 
 That's pretty much it! The project has been successfully completed and submitted!
+
+Also you can follow this link below to my live website:
+ https://ironious8.github.io/phase-1-project/
