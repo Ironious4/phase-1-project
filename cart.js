@@ -17,7 +17,7 @@ closeShopping.addEventListener('click', ()=>{
 let listCards  = [];
 let products=[];
 function displayApp(){
-    fetch('http://localhost:3000/products')
+    fetch('https://my-json-server.typicode.com/Ironious8/phase-1-project/products')
     .then(response=>response.json())
     .then(data=> {
     products=data;    
