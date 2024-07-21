@@ -51,4 +51,4 @@ Before we forget,the work is to be submitted to canvas. Simply paste the URL of 
 That's pretty much it! The project has been successfully completed and submitted!
 
 Also you can follow this link below to my live website:
- https://my-json-server.typicode.com/Ironious8/phase-1-project/products
+ https://ironious8.github.io/phase-1-project/
